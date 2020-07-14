@@ -17,8 +17,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | Apresentação do curso  | Slides  |
 | Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
 
-
- <td colspan=2> A Internet: Princípios arquiteturais           
+| >  | A Internet: Princípios arquiteturais  |
 | :--- | :--- |
 | **(24/08) Aula 01**   |       |
 | Apresentação do curso  | Slides  |
