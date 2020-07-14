@@ -1,10 +1,9 @@
 ## IMD0043 - Redes de Computadores
 
-Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors (IMD0043) do Bacharelado em Tecnologia da Informação do IMD/UFRN.
+Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors (IMD0043) do Bacharelado em Tecnologia da Informação do IMD/UFRN estará disponível neste repositório.
 
 ### Plano de aulas
 
-First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
