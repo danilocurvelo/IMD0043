@@ -4,9 +4,10 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 
 ### Plano de aulas
 
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+| (24/08) Aula 01   |               |
+| ------------- | ------------- |
+| Apresentação do curso  | Slides  |
+| Material complemetar  | Content Cell  |
 
 ```markdown
 Syntax highlighted code block
