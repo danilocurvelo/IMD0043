@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## IMD0043 - Redes de Computadores
 
-You can use the [editor on GitHub](https://github.com/danilocurvelo/imd0043/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors (IMD0043) do Bacharelado em Tecnologia da Informação do IMD/UFRN.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Plano de aulas
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 ```markdown
 Syntax highlighted code block
