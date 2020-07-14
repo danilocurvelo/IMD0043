@@ -8,6 +8,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | :--- | :--- |
 | Apresentação do curso  | Slides  |
 | Material complemetar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
+| Material complemetar  | End-to-End Arguments in System Design, Tussle in Cyberspace: Defining Tomorrow's Internet |
 
 ```markdown
 Syntax highlighted code block
