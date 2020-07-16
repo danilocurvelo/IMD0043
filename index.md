@@ -11,7 +11,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 
 | (31/08) Aula 02        |               |
-| :--- | :--- |  |
+| :--- | :--- |  
 | **Circuitos e pacotes**  | Slides  |
 | Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
 
