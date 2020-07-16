@@ -10,33 +10,29 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 
-| (31/08) Aula 02        |               |
+| (26/08) Aula 02        |               |
 | :--- | :--- |  
 | **Circuitos e pacotes**  | Slides  |
 | Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
+
+>> **Camada de rede:** Endereçamento, roteamento e encaminhamento
 
 | (31/08) Aula 03        |               |
 | :--- | :--- |
 | **Como a Internet funciona?**  | Slides  |
 | Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
 
-| (24/08) Aula 04        |               |
+| (02/09) Aula 04        |               |
 | :--- | :--- |
 | **Princípios e objetivos arquiteturais**  | Slides  |
-| Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
-| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
-| Atividades  | [Lista de exercícios #1](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
 
 | (31/08) Aula 05        |               |
 | :--- | :--- |
 | **Camada de enlace**  | Slides  |
-| Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
 
 | (31/08) Aula 06      |               |
 | :--- | :--- |
 | **Ethernet**  | Slides  |
-| Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
-| Atividades  | [Lista de exercícios #2](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
 
 
 
