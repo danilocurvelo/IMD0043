@@ -4,25 +4,33 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 
 ### A Internet: Princípios arquiteturais
 
-<table>
-  <tr>
-    <th>var</th>
-    <th>let</th>
-    <th>const</th>
-  </tr>
-  <tr>
-    <td>
-      Declares a variable, optionally initializing it to a value.
-    </td>
-    <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
-    </td>
-    <td>
-      Declares a block-scoped, read-only named constant.
-    </td>
-  </tr>
-  ...
-</table>
+|         |               |
+| :--- | :--- |
+| **(24/08) Aula 01**   |       |
+| **Apresentação do curso**  | Slides  |
+| Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+
+|         |               |
+| :--- | :--- |
+| **(31/08) Aula 02**   |       |
+| **Circuitos e pacotes**  | Slides  |
+| Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
+
+|         |               |
+| :--- | :--- |
+| **(31/08) Aula 03**   |       |
+| **Como a Internet funciona?**  | Slides  |
+| Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
+
+|         |               |
+| :--- | :--- |
+| **(24/08) Aula 04**   |       |
+| **Princípios e objetivos arquiteturais**  | Slides  |
+| Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades  | [Lista de exercícios #1](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
+
 
 |         |               |
 | :--- | :--- |
