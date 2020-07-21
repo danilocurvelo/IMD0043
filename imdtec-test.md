@@ -46,6 +46,12 @@ const novaListaDeCompras = ['ovos', 'leite', 'manteiga', 'chocolate', 'pão'];
 console.log(novaListaDeCompras.length);
 ```
 
+## Código-fonte
+
+Todos os códigos-fontes vistos nesta vídeo-aula podem ser baixados no repositório a seguir:
+
+1. [Repositório de Desenvolvimento Front End II](https://github.com/danilocurvelo/IMD0043)
+
 ## Material Complementar
 
 1. [Documentação MDN - Arrays em Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
