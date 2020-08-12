@@ -4,9 +4,13 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 
 ### A Internet: Princípios arquiteturais
 
+
+
+
+
 | (24/08) Aula 01     |               |
 | :--- | :--- |
-| **Apresentação do curso**  | Slides  |
+| **Apresentação do curso**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
 | Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 
