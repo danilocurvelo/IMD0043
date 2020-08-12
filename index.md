@@ -49,7 +49,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
   </tr>
   <tr>
     <td>Material complementar</td>
-    <td><a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona">Como a Internet funciona?</a> <em>por Mozilla MDN</em>  <br/> <a target="_blank" href="https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8">How does the Internet works?</a> <em>por Steven Li</em> </td> 
+    <td><a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona">Como a Internet funciona?</a> <br/> <a target="_blank" href="https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8">How does the Internet works?</a> </td> 
   </tr>
   <tr>
     <td>Atividades</td>
