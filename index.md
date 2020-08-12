@@ -1,6 +1,6 @@
 ## IMD0043 - Redes de Computadores
 
-Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors (IMD0043) do Bacharelado em Tecnologia da Informação do IMD/UFRN estará disponível neste repositório.
+Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors (IMD0043) do Bacharelado em Tecnologia da Informação do IMD/UFRN estará disponível neste repositório. Sempre que possível uma leitura complementar do conteúdo visto será disponibilizado na forma de *link* para o livro digital disponível gratuitamente [*Computer Networks: A Systems Approach*](https://book.systemsapproach.org), escrito por Larry Peterson e Bruce Davie (P&D).
 
 | (24/08 - 26/08) Aula 0     |               |
 | :--- | :--- |
@@ -11,7 +11,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | (24/08 - 26/08) Aula 1     |               |
 | :--- | :--- |
 | **Circuitos e pacotes**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
-| Leitura complementar  | Peterson & Davie Seção [1.2](https://book.systemsapproach.org/foundation/requirements.html) |
+| Leitura complementar  | P&D Seção [1.2](https://book.systemsapproach.org/foundation/requirements.html) |
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
