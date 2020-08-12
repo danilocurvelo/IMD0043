@@ -139,5 +139,20 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
     <td>Material complementar</td>
     <td><a target="_blank" href="https://www.internetsociety.org/internet/history-internet/brief-history-internet/">A brief history of the Internet</a></td>
   </tr>
+  <tr>
+    <td colspan="2">
+  </tr>
+  <tr>
+    <td colspan="2"><strong>(24/08 - 26/08) Semana 0</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Apresentação do curso</strong></td>
+    <td><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"> <img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://www.internetsociety.org/internet/history-internet/brief-history-internet/">A brief history of the Internet</a></td>
+  </tr>
+  
 </table>
 
