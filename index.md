@@ -5,8 +5,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | (24/08 - 26/08) Semana 0     |               |
 | :--- | :--- |
 | **Apresentação do curso**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
-| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
-| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+| Material complementar  | [A brief history of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
 
 | (24/08 - 26/08) Semana 1     |               |
 | :--- | :--- |
