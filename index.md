@@ -11,14 +11,13 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | :--- | :--- |
 | **Circuitos e pacotes**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
 | Leitura complementar  | P&D Seções [1.2](https://book.systemsapproach.org/foundation/requirements.html) e [1.5](https://book.systemsapproach.org/foundation/performance.html)|
-| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
 | (31/08 - 02/09) Semana 2    |               |
 | :--- | :--- |
 | **Como a Internet funciona?**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
 | Leitura complementar  | P&D Seções [1.1](https://book.systemsapproach.org/foundation/applications.html) e [1.4](https://book.systemsapproach.org/foundation/software.html)|
-| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Material complementar  | [Como a Internet funciona? *por Mozilla MDN*](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona) <br/> [How does the Internet works? *por Steven Li*](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8) |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
 | (07/09 - 09/09) Semana 3    |               |
