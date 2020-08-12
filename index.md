@@ -26,19 +26,19 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
-| (14/09 - 16/09) Semana 4     |       <img width=500/>        |
+| (14/09 - 16/09) Semana 4     |               |
 | :--- | :--- |
 | **Camada de enlace**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
-| (21/09 - 23/09) Semana 5     |    <img width=500/>           |
+| (21/09 - 23/09) Semana 5     |               |
 | :--- | :--- |
 | **Ethernet**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
-| (28/09 - 30/09) Semana 6     |    <img width=500/>           |
+| (28/09 - 30/09) Semana 6     |              |
 | :--- | :--- |
 | **Encaminhamento de quadros**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
