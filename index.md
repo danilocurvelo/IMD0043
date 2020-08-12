@@ -107,3 +107,37 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 
 
 
+
+
+| (24/08 - 26/08) Semana 0    |               |
+| :--- | :--- |
+| **Apresentação do curso**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | [A brief history of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
+
+| (24/08 - 26/08) Semana 1     |               |
+| :--- | :--- |
+| **Circuitos e pacotes**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Leitura complementar  | P&D Seções [1.2](https://book.systemsapproach.org/foundation/requirements.html) e [1.5](https://book.systemsapproach.org/foundation/performance.html)|
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (31/08 - 02/09) Semana 2    |               |
+| :--- | :--- |
+| **Como a Internet funciona?**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Leitura complementar  | P&D Seções [1.1](https://book.systemsapproach.org/foundation/applications.html) e [1.4](https://book.systemsapproach.org/foundation/software.html)|
+| Material complementar  | [Como a Internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona) *por Mozilla MDN* <br/> [How does the Internet works?](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8) *por Steven Li* |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+<table style="width:100%">
+  <tr>
+    <td colspan="2"><strong>(24/08 - 26/08) Semana 0</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Apresentação do curso</strong></td>
+    <td><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"> <img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://www.internetsociety.org/internet/history-internet/brief-history-internet/">A brief history of the Internet</a></td>
+  </tr>
+</table>
+
