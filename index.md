@@ -2,7 +2,7 @@
 
 Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors (IMD0043) do Bacharelado em Tecnologia da Informação do IMD/UFRN estará disponível neste repositório. Sempre que possível uma leitura complementar do conteúdo visto será disponibilizado na forma de *link* para o livro digital disponível gratuitamente [*Computer Networks: A Systems Approach*](https://book.systemsapproach.org), escrito por Larry Peterson e Bruce Davie (P&D).
 
-| (24/08 - 26/08) Semana 0     |               |
+| (24/08 - 26/08) Semana 0     |   <img width=300/>            |
 | :--- | :--- |
 | **Apresentação do curso**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
 | Material complementar  | [A brief history of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
@@ -104,18 +104,5 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
-<table style="width:100%">
-  <tr>
-    <th colspan="2">(07/12 - 09/12) Semana 16</th>
-  </tr>
-  <tr>
-    <td>**Camada de aplicação II**</td>
-    <td>[![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) </td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-  </tr>
-</table>
 
 
