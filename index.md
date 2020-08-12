@@ -10,19 +10,21 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | (24/08 - 26/08) Semana 1     |               |
 | :--- | :--- |
 | **Circuitos e pacotes**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
-| Leitura complementar  | P&D Seção [1.2](https://book.systemsapproach.org/foundation/requirements.html) |
+| Leitura complementar  | P&D Seções [1.2](https://book.systemsapproach.org/foundation/requirements.html) e [1.5](https://book.systemsapproach.org/foundation/performance.html)|
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
 | (31/08 - 02/09) Semana 2    |               |
 | :--- | :--- |
 | **Como a Internet funciona?**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Leitura complementar  | P&D Seções [1.1](https://book.systemsapproach.org/foundation/applications.html) e [1.4](https://book.systemsapproach.org/foundation/software.html)|
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
 | (07/09 - 09/09) Semana 3    |               |
 | :--- | :--- |
 | **Princípios arquiteturais**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Leitura complementar  | P&D Seção [1.3](https://book.systemsapproach.org/foundation/architecture.html) |
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
