@@ -2,24 +2,18 @@
 
 Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors (IMD0043) do Bacharelado em Tecnologia da Informação do IMD/UFRN estará disponível neste repositório.
 
-### A Internet: Princípios arquiteturais
-
-
-
-
-
 | (24/08) Aula 01     |               |
 | :--- | :--- |
 | **Apresentação do curso**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
 | Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
 
 | (26/08) Aula 02        |               |
 | :--- | :--- |  
 | **Circuitos e pacotes**  | Slides  |
 | Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
-
->> **Camada de rede:** Endereçamento, roteamento e encaminhamento
 
 | (31/08) Aula 03        |               |
 | :--- | :--- |
