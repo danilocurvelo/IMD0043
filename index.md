@@ -2,63 +2,100 @@
 
 Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors (IMD0043) do Bacharelado em Tecnologia da Informação do IMD/UFRN estará disponível neste repositório.
 
-| (24/08) Aula 01     |               |
+| (24/08) Aula 0     |               |
 | :--- | :--- |
 | **Apresentação do curso**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
-| Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 01     |               |
+| :--- | :--- |
+| **Circuitos e pacotes**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 03     |               |
+| :--- | :--- |
+| **Como a Internet funciona?**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 04     |               |
+| :--- | :--- |
+| **Princípios arquiteturais**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 05     |               |
+| :--- | :--- |
+| **Camada de enlace**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 06     |               |
+| :--- | :--- |
+| **Ethernet**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 07     |               |
+| :--- | :--- |
+| **Fundamentos de roteamento I**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 08     |               |
+| :--- | :--- |
+| **Fundamentos de roteamento II**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 09     |               |
+| :--- | :--- |
+| **Fundamentos de roteamento III**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 10     |               |
+| :--- | :--- |
+| **Endereçamento**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 11     |               |
+| :--- | :--- |
+| **Protocolo IP**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 12     |               |
+| :--- | :--- |
+| **Juntando as peças**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 13     |               |
+| :--- | :--- |
+| **Camada de transporte**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 14     |               |
+| :--- | :--- |
+| **Camada de aplicação I**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 15     |               |
+| :--- | :--- |
+| **Camada de aplicação II**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
+| Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
+
+| (24/08) Aula 16     |               |
+| :--- | :--- |
+| **Futuro das redes de computadores**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
 
-| (26/08) Aula 02        |               |
-| :--- | :--- |  
-| **Circuitos e pacotes**  | Slides  |
-| Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
-
-| (31/08) Aula 03        |               |
-| :--- | :--- |
-| **Como a Internet funciona?**  | Slides  |
-| Material complementar  | [A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  |
-
-| (02/09) Aula 04        |               |
-| :--- | :--- |
-| **Princípios e objetivos arquiteturais**  | Slides  |
-
-| (31/08) Aula 05        |               |
-| :--- | :--- |
-| **Camada de enlace**  | Slides  |
-
-| (31/08) Aula 06      |               |
-| :--- | :--- |
-| **Ethernet**  | Slides  |
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danilocurvelo/imd0043/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
