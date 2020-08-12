@@ -11,6 +11,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 | (24/08 - 26/08) Aula 1     |               |
 | :--- | :--- |
 | **Circuitos e pacotes**  | [![slides](https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader)](http://www.google.com)   [![video](https://img.shields.io/badge/-Vídeoaula-ff0000?style=flat-square&logo=youtube)](http://www.google.com) |
+| Leitura complementar  | P&D Seção [1.2](https://book.systemsapproach.org/foundation/requirements.html) |
 | Material complementar  | End-to-End Arguments in System Design <br/> Tussle in Cyberspace |
 | Atividades | [Lista de atividades #01](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) |
 
