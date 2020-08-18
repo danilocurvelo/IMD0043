@@ -33,13 +33,10 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
     <td>Leitura complementar</td>
     <td>P&D Seções <a target="_blank" href="https://book.systemsapproach.org/foundation/requirements.html">1.2</a> e <a target="_blank" href="https://book.systemsapproach.org/foundation/performance.html">1.5</a></td>
   </tr>
-  <tr>
-    <td>Atividades</td>
-    <td><a target="_blank" href="https://book.systemsapproach.org/foundation/requirements.html">Lista de atividades #01</a></td>
-  </tr>
   
   <tr><td colspan="2"></td></tr>
   
+  <!--
   <tr>
     <td colspan="2"><strong>(31/08 - 02/09) Semana 2</strong></td>
   </tr>
@@ -59,7 +56,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
     <td>Atividades</td>
     <td><a target="_blank" href="https://book.systemsapproach.org/foundation/requirements.html">Lista de atividades #01</a></td>
   </tr>
- 
+  -->
 </table>
 
 
