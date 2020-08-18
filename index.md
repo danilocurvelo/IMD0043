@@ -15,6 +15,10 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
     <td>Material complementar</td>
     <td><a target="_blank" href="https://www.internetsociety.org/internet/history-internet/brief-history-internet/">A brief history of the Internet</a></td>
   </tr>
+  <tr>
+    <td>Bibliografia</td>
+    <td><a target="_blank" href="https://book.systemsapproach.org/">Computer Networks: A System Approach</a></td>
+  </tr>
   
   <tr><td colspan="2"></td></tr>
   
