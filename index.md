@@ -17,7 +17,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
   </tr>
   <tr>
     <td>Bibliografia</td>
-    <td><a target="_blank" href="https://book.systemsapproach.org/">Computer Networks: A System Approach</a></td>
+    <td><a target="_blank" href="https://book.systemsapproach.org/">Computer Networks</a> <em>por P&D</em></td>
   </tr>
   
   <tr><td colspan="2"></td></tr>
