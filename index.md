@@ -9,7 +9,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
   </tr>
   <tr>
     <td><strong>Apresentação do curso</strong></td>
-    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/blob/master/slides/00-presentation-c19.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href=""><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   <tr>
     <td>Material complementar</td>
