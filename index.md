@@ -5,7 +5,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 <table style="width:100%">
   
   <tr>
-    <td colspan="2"><strong>(24/08 - 26/08) Semana 0</strong></td>
+    <td colspan="2"><strong>(07/09 - 09/09) Semana 0</strong></td>
   </tr>
   <tr>
     <td><strong>Apresentação do curso</strong></td>
@@ -23,7 +23,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
   <tr><td colspan="2"></td></tr>
   
   <tr>
-    <td colspan="2"><strong>(24/08 - 26/08) Semana 1</strong></td>
+    <td colspan="2"><strong>(07/09 - 09/09) Semana 1</strong></td>
   </tr>
   <tr>
     <td><strong>Circuitos e pacotes</strong></td>
