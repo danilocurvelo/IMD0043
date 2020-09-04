@@ -5,11 +5,19 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
 <table style="width:100%">
   
   <tr>
-    <td colspan="2"><strong>(07/09 - 09/09) Semana 0</strong></td>
+    <td colspan="2"><strong>(07/09 - 09/09) Semana 1</strong></td>
   </tr>
   <tr>
     <td><strong>Apresentação do curso</strong></td>
     <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/00-presentation-c19.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=eZpvFJGzoYA"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a></td>
+  </tr>
+    <tr>
+    <td><strong>Circuitos e pacotes</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/01-circuits-and-packets.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/tonKPnqMxNs"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>P&D Seções <a target="_blank" href="https://book.systemsapproach.org/foundation/requirements.html">1.2</a> e <a target="_blank" href="https://book.systemsapproach.org/foundation/performance.html">1.5</a></td>
   </tr>
   <tr>
     <td>Material complementar</td>
@@ -22,19 +30,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors
   
   <tr><td colspan="2"></td></tr>
   
-  <tr>
-    <td colspan="2"><strong>(07/09 - 09/09) Semana 1</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Circuitos e pacotes</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/01-circuits-and-packets.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/tonKPnqMxNs"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a></td>
-  </tr>
-  <tr>
-    <td>Leitura complementar</td>
-    <td>P&D Seções <a target="_blank" href="https://book.systemsapproach.org/foundation/requirements.html">1.2</a> e <a target="_blank" href="https://book.systemsapproach.org/foundation/performance.html">1.5</a></td>
-  </tr>
   
-  <tr><td colspan="2"></td></tr>
   
   <!--
   <tr>
