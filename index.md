@@ -1,6 +1,6 @@
 ## IMD0043 - Redes de Computadores
 
-Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadors (IMD0043) do Bacharelado em Tecnologia da Informação do IMD/UFRN estará disponível neste repositório. Sempre que possível uma leitura complementar do conteúdo visto será disponibilizado na forma de *link* para o livro digital disponível gratuitamente [*Computer Networks: A Systems Approach*](https://book.systemsapproach.org), escrito por Larry Peterson e Bruce Davie (P&D).
+Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadores (IMD0043) do Bacharelado em Tecnologia da Informação do IMD/UFRN estará disponível neste repositório. Sempre que possível uma leitura complementar do conteúdo visto será disponibilizado na forma de *link* para o livro digital disponível gratuitamente [*Computer Networks: A Systems Approach*](https://book.systemsapproach.org), escrito por Larry Peterson e Bruce Davie (P&D).
 
 <table style="width:100%">
   
