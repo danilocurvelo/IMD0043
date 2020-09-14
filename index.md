@@ -9,11 +9,15 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
   </tr>
   <tr>
     <td><strong>Apresentação do curso</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/00-presentation-c19.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=eZpvFJGzoYA"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/00-presentation-c19.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=eZpvFJGzoYA"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
     <tr>
     <td><strong>Circuitos e pacotes</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/01-circuits-and-packets.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/tonKPnqMxNs"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/01-circuits-and-packets.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/tonKPnqMxNs"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 09/09 18:30-20:00</td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -32,13 +36,17 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
   
   
   
-  <!--
+  
   <tr>
-    <td colspan="2"><strong>(31/08 - 02/09) Semana 2</strong></td>
+    <td colspan="2"><strong>(14/09 - 16/09) Semana 2</strong></td>
   </tr>
   <tr>
     <td><strong>Como a Internet funciona?</strong></td>
-    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/02-how-the-internet-works.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=ssNkxuAdtVE"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 16/09 18:30-20:00</td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -50,9 +58,9 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
   </tr>
   <tr>
     <td>Atividades</td>
-    <td><a target="_blank" href="https://book.systemsapproach.org/foundation/requirements.html">Lista de atividades #01</a></td>
+    <td><a target="_blank" href="https://http://multiprova.ufrn.br/">[Multiprova] Lista #01</a></td>
   </tr>
-  -->
+  
 </table>
 
 
