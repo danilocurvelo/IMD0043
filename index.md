@@ -77,11 +77,28 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
   </tr>
   <tr>
     <td>Leitura complementar</td>
-    <td>P&D Seções <a target="_blank" href="https://book.systemsapproach.org/foundation/architecture.html">1.3</a></td>
+    <td>P&D Seção <a target="_blank" href="https://book.systemsapproach.org/foundation/architecture.html">1.3</a></td>
   </tr>
   <tr>
     <td>Material complementar</td>
     <td><a target="_blank" href="https://medium.com/@int0x33/day-51-understanding-the-osi-model-f22d5f3df756">Understanding the OSI Model</a></td> 
+  </tr>
+  
+  
+  <tr>
+    <td colspan="2"><strong>(28/09 - 30/09) Semana 4</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Camada de enlace</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/04-link-layer.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=Vfuy7pe8lHs"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 30/09 18:30-20:00</td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>P&D Seções <a target="_blank" href="https://book.systemsapproach.org/foundation/requirements.html">1.2</a> e <a target="_blank" href="https://book.systemsapproach.org/foundation/architecture.html">2.6</a></td>
   </tr>
   
 </table>
