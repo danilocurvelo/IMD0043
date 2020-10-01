@@ -60,9 +60,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
     <td>Atividades</td>
     <td><a target="_blank" href="http://multiprova.ufrn.br/">[Multiprova] Lista #01</a></td>
   </tr>
-  
     <tr><td colspan="2"></td></tr>
-  
   
   <tr>
     <td colspan="2"><strong>(21/09 - 23/09) Semana 3</strong></td>
@@ -83,8 +81,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
     <td>Material complementar</td>
     <td><a target="_blank" href="https://medium.com/@int0x33/day-51-understanding-the-osi-model-f22d5f3df756">Understanding the OSI Model</a></td> 
   </tr>
-  
-    <tr><td colspan="2"></td></tr>
+   <tr><td colspan="2"></td></tr>
   
   <tr>
     <td colspan="2"><strong>(28/09 - 30/09) Semana 4</strong></td>
