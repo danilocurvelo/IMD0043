@@ -99,6 +99,38 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
     <td>P&D Seções <a target="_blank" href="https://book.systemsapproach.org/foundation/requirements.html">1.2</a> e <a target="_blank" href="https://book.systemsapproach.org/foundation/architecture.html">2.6</a></td>
   </tr>
   
+   <tr><td colspan="2"></td></tr>
+  
+  <tr>
+    <td colspan="2"><strong>(05/10 - 07/10) Semana 5</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Ethernet</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/05-switched-ethernet.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/JUSj2i7qOeg"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  <tr>
+    <td><strong>Spanning Tree Protocol</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/06-spanning-tree-protocol.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/4fO8-8gDO_o"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 07/10 18:30-20:00</td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>P&D Seções <a target="_blank" href="https://book.systemsapproach.org/direct/framing.html">2.3</a>, <a target="_blank" href="https://book.systemsapproach.org/direct/ethernet.html">2.6</a> e <a target="_blank" href="https://book.systemsapproach.org/internetworking/ethernet.html">3.2</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://ethernethistory.typepad.com/papers/EthernetSpec.pdf">The Ethernet (v1.0)</a> </td> 
+  </tr>
+  <tr>
+    <td>Atividades</td>
+    <td><a target="_blank" href="http://multiprova.ufrn.br/">[Multiprova] Lista #02</a></td>
+  </tr>
+  
 </table>
 
 
