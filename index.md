@@ -198,6 +198,33 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
     <td><a target="_blank" href="https://medium.com/@celinedelta/network-routing-68041a56174b">Network Routing</a> </td> 
   </tr>
   
+   <tr><td colspan="2"></td></tr>
+  
+  <tr>
+    <td colspan="2"><strong>(02/11 - 04/11) Semana 9</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Roteamento por estado de enlace</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/07-routing-fundamentals-part03.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=qJuKKmrso-w"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 04/11 18:30-20:00</td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>P&D Seções <a target="_blank" href="https://book.systemsapproach.org/internetworking/routing.html">3.4</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://medium.com/@celinedelta/network-routing-68041a56174b">Network Routing</a> </td> 
+  </tr>
+  <tr>
+    <td>Atividades</td>
+    <td><a target="_blank" href="http://multiprova.ufrn.br/">[Multiprova] Lista #03</a></td>
+  </tr>
+  
 </table>
 
 
