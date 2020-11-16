@@ -270,8 +270,8 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
   </tr>
   <tr>
     <td>Material complementar</td>
-    <td><a target="_blank" href="https://www.cloudflare.com/learning/security/glossary/what-is-bgp/">What is BGP?</a> </td> 
-      <td><a target="_blank" href="https://medium.com/bugbountywriteup/bgp-the-weak-link-in-the-internet-what-is-bgp-and-how-do-hackers-exploit-it-d899a68ba5bb">Falhas no BGP</a> </td> 
+    <td><a target="_blank" href="https://www.cloudflare.com/learning/security/glossary/what-is-bgp/">What is BGP?</a> 
+      <a target="_blank" href="https://medium.com/bugbountywriteup/bgp-the-weak-link-in-the-internet-what-is-bgp-and-how-do-hackers-exploit-it-d899a68ba5bb">Falhas no BGP</a> </td> 
   </tr>
   
 </table>
