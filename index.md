@@ -274,6 +274,34 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
       <a target="_blank" href="https://medium.com/bugbountywriteup/bgp-the-weak-link-in-the-internet-what-is-bgp-and-how-do-hackers-exploit-it-d899a68ba5bb">Falhas no BGP</a> </td> 
   </tr>
   
+   <tr><td colspan="2"></td></tr>
+  
+  <tr>
+    <td colspan="2"><strong>(23/11 - 25/11) Semana 12</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Protocolo IP</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/10-internet-protocol.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=QkVjIu5tFzM"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  <tr>
+    <td><strong>Arquitetura do roteador</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/11-router-architecture.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=CnbIzx67q1M"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 25/11 18:30-20:00</td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>P&D Seções <a target="_blank" href="https://book.systemsapproach.org/internetworking/basic-ip.html">3.3</a>, <a target="_blank" href="https://book.systemsapproach.org/internetworking/impl.html">3.5</a> e <a target="_blank" href="https://book.systemsapproach.org/scaling/ipv6.html">4.2</a></td>
+  </tr>
+  <tr>
+    <td>Atividades</td>
+    <td><a target="_blank" href="http://multiprova.ufrn.br/">[Multiprova] Lista #04</a></td>
+  </tr>
+  
 </table>
 
 
