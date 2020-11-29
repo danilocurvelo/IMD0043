@@ -309,7 +309,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
     <td colspan="2"><strong>(30/11 - 02/12) Semana 13</strong></td>
   </tr>
   <tr>
-    <td><strong>BGP</strong></td>
+    <td><strong>Juntando as peças...</strong></td>
     <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/12-e2e.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=Oayx9yrmhWM"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   
