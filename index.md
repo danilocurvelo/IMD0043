@@ -317,7 +317,6 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
   <td>Atendimento síncrono</td>
    <td><a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 02/12 18:30-20:00</td>
   </tr>
-  <tr>
   
 </table>
 
