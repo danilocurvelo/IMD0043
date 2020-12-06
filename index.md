@@ -318,6 +318,26 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
    <td><a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 02/12 18:30-20:00</td>
   </tr>
   
+  
+  <tr><td colspan="2"></td></tr>
+  
+  <tr>
+    <td colspan="2"><strong>(07/12 - 09/12) Semana 14</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Camada de transporte</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/13-transport-layer.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=lwXJm9c_lfs"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/UKRFSE2"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 09/12 18:30-20:00</td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>P&D Seções <a target="_blank" href="https://book.systemsapproach.org/e2e/udp.html">51</a>, <a target="_blank" href="https://book.systemsapproach.org/internetworking/impl.html">3.5</a> e <a target="_blank" href="https://book.systemsapproach.org/e2e/tcp.html">5.2</a></td>
+  </tr>
+  
 </table>
 
 
