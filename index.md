@@ -362,7 +362,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
   
   <tr>
     <td>Atividades</td>
-    <td><a target="_blank" href="http://multiprova.ufrn.br/">[Multiprova] Lista #05</a></td>
+    <td><a target="_blank" href="http://multiprova.ufrn.br/">[Multiprova] Lista #05</a> <strong>até 16/12!</strong></td>
   </tr>
   
   
