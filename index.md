@@ -204,7 +204,7 @@ Todo o material acadêmico da execução 2020.6 do curso de Redes de Computadore
     <td colspan="2"><strong>(02/11 - 04/11) Semana 9</strong></td>
   </tr>
   <tr>
-    <td><strong>Roteamento por estado de enlace</strong></td>
+    <td><strong>Roteamento por vetor de distâncias</strong></td>
     <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0043/raw/master/slides/07-routing-fundamentals-part03.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=qJuKKmrso-w"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   
